@@ -1,3 +1,4 @@
+https://sakopolis.github.io/comp484-hw2/index.html
 *structure.html document outline:*
  Conveying meaning through structure 
  Sectioning elements 
