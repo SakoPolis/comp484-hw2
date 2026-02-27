@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="100%" height="100%" fill="#f7f7f7"/>
+  <text x="50%" y="20" font-size="18" text-anchor="middle" fill="#222">Site Structure Diagram (placeholder)</text>
+  <g fill="#fff" stroke="#333" stroke-width="1">
+    <rect x="50" y="50" width="200" height="50" rx="6"/>
+    <rect x="300" y="50" width="200" height="50" rx="6"/>
+    <rect x="550" y="50" width="200" height="50" rx="6"/>
+    <rect x="300" y="140" width="200" height="50" rx="6"/>
+  </g>
+  <text x="150" y="80" font-size="14" text-anchor="middle">header</text>
+  <text x="400" y="80" font-size="14" text-anchor="middle">nav</text>
+  <text x="650" y="80" font-size="14" text-anchor="middle">footer</text>
+  <text x="400" y="170" font-size="14" text-anchor="middle">main / article / sections</text>
+</svg>
